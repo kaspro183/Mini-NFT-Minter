@@ -1,4 +1,4 @@
-# Mini NFT Minter (Base Sepolia)
+# Mini NFT Minter (Base Sepolia)!
 
 Contrat ERC721 minimal permettant de **minter un NFT** avec une `tokenURI` (texte ou data URL).
 
